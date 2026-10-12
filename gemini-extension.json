@@ -1,0 +1,11 @@
+{
+  "name": "plotter",
+  "version": "0.3.1",
+  "description": "Work through website feedback from Plotter: read the client's marks as tasks, apply them, ask when one is unclear, and resolve them. Or send a static build to Plotter for review.",
+  "mcpServers": {
+    "plotter": {
+      "httpUrl": "https://app.plotter.run/v1/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
